@@ -1,4 +1,4 @@
-# Hey! 👋 I'm Karim and I'm studying Data Science in London! 🌍🫰
+# Hey! 👋 I'm Karim, I'm studying Data Science in London! 🌍🫰
 
 
 ## Self proclaimed donut connoisseur 😏🍩
