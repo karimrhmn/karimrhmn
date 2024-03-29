@@ -1,6 +1,6 @@
-### Hi there 👋
-!![IMG_3013](https://github.com/karimrhmn/karimrhmn/assets/163521992/1f7b1ea4-c451-4af6-882b-413bc0b61bbe)
+# Hi there 👋
 
+## My names Abdul-Karim and I'm studying Data Science with CoGrammer! 👋
 
 <!--
 **karimrhmn/karimrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
