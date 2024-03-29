@@ -1,6 +1,5 @@
-# Hi there 👋
+# Hey! 👋 my name's Karim and I'm studying Data Science! 🫰 in London! 🌍
 
-## My names Abdul-Karim and I'm studying Data Science with CoGrammer! 👋
 
 <!--
 **karimrhmn/karimrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
