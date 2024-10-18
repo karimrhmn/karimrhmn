@@ -1,11 +1,11 @@
-# Hey! 👋 I'm Karim, Data Science student! 🌍🫰
+# Hey! 👋 I'm Karim, Computing and IT student! 🌍🫰
 
 
 ## Self proclaimed donut connoisseur 😏🍩
 
-Joined CoGrammer and learning Data Science since 07/03/2024, **heres a list of what I'm currently working on** ⚙️
+OpenUni student since 09/2024, **heres a list of what I'm currently working on** ⚙️
 
-- 🔩 Mastering Python 
+- 📖 Learning Python 
 - 🔎 Experimenting with Unreal Engine and Blender!
 - 🔮 3d printing automobiles
 - 🪵 Bringing python projects irl with arduinos and rasberry pi's
