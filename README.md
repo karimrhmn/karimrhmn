@@ -1,13 +1,13 @@
-# Hey! 👋 I'm Karim, Computing and IT student! 🌍🫰
+# Hey I'm Karim! 👋
 
 
 ## Self proclaimed donut connoisseur 😏🍩
 
 OpenUni student since 09/2024, **heres a list of what I'm currently working on** ⚙️
 
-- 📖 Learning Python 
-- 🔎 Experimenting with Unreal Engine and Blender!
-- 🔮 3d printing automobiles
+- 📖 Learning Python and Java
+- 🔎 Experimenting with Blender and kiCad!
+- 🔮 3d printing and CNC machining 
 - 🪵 Bringing python projects irl with arduinos and rasberry pi's
 
 <!--
