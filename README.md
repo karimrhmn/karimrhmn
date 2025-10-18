@@ -5,8 +5,8 @@
 
 OpenUni student since 09/2024, **heres a list of what I'm currently working on** ⚙️
 
-- 📖 Learning Python and Java
-- 🔎 Experimenting with Blender and kiCad!
+- 📖 Learning Python and networking whilst studying my CCNA
+- 🔎 Experimenting with Blender and kiCad
 - 🔮 3d printing and CNC machining 
 - 🪵 Bringing python projects irl with arduinos and rasberry pi's
 
