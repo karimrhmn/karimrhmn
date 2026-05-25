@@ -3,12 +3,12 @@
 
 ## Self proclaimed donut connoisseur 😏🍩
 
-OpenUni student since 09/2024, **heres a list of what I'm currently working on** ⚙️
+OpenUni student, **heres a list of what I'm currently working on** ⚙️
 
-- 📖 Learning Python and networking whilst studying my CCNA
-- 🔎 Experimenting with Blender and kiCad
+- 📖 Learning Python and networking whilst studying torwards my CCNA
+- 🔎 Experimenting with Blender and kiCad and packet tracer
 - 🔮 3d printing and CNC machining 
-- 🪵 Bringing python projects irl with arduinos and rasberry pi's
+- 🪵 Bringing python projects irl with arduinos and rasberry pi's and 3d printing
 
 <!--
 **karimrhmn/karimrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
